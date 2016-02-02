@@ -1,0 +1,24 @@
+{
+  "name": "idnp.js",
+  "description": "idnp validation function",
+  "main": "idnp.js",
+  "authors": [
+    "Alexey Bondarenko"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "idnp",
+    "validation",
+    "validator",
+    "javascript"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
